@@ -1,10 +1,6 @@
 import numpy as np
 from numpy.typing import ArrayLike
-import matplotlib.pyplot as plt
-from matplotlib import patches
-from matplotlib.lines import Line2D
-from matplotlib.offsetbox import AnnotationBbox, DrawingArea
-from matplotlib.transforms import Affine2D
+
 
 # reference: https://engineerexcel.com/stress-and-strain-transformations/
 
